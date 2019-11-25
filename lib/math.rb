@@ -21,3 +21,7 @@ end
 def square_root(num)
 puts "(square_root(81)).to eq(9)"
 end
+
+addition(num1, num2)
+subtraction(num1, num2)
+square_root(num)
