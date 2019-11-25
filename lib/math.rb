@@ -15,7 +15,7 @@ puts "(multiplication(4,30)).to eq(120)"
 end
 
 def modulo(num1, num2)
-puts "(34, 5), (4)"
+puts "(modulo(34, 5)).to eq(4)"
 end
 
 def square_root(num)
