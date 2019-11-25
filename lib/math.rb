@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  puts ""
+  puts "(5,4), (9)"
 
 end
 
