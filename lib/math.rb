@@ -25,3 +25,6 @@ end
 addition(num1, num2)
 subtraction(num1, num2)
 square_root(num)
+modulo(num1, num2)
+multiplication(num1, num2)
+division(num1, num2)
