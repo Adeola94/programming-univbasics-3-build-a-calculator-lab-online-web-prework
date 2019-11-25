@@ -12,11 +12,11 @@ puts "(50,2), (25)"
 end
 
 def multiplication(num1, num2)
-
+puts "(4,30), (120)"
 end
 
 def modulo(num1, num2)
-
+puts 
 end
 
 def square_root(num)
