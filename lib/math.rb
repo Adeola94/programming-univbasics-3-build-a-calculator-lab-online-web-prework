@@ -11,7 +11,7 @@ puts "(division(50,2)).to eq(25)"
 end
 
 def multiplication(num1, num2)
-puts "(4,30), (120)"
+puts "(multiplication(4,30)).to eq(120)"
 end
 
 def modulo(num1, num2)
