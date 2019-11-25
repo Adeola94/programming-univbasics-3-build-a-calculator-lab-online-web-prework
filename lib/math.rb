@@ -7,7 +7,7 @@ puts "(subtraction(10,5)).to eq(5)"
 end
 
 def division(num1, num2)
-puts "(50,2), (25)"
+puts "(division(50,2)).to eq(25)"
 end
 
 def multiplication(num1, num2)
