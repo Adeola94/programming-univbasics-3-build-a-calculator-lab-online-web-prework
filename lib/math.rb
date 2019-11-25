@@ -20,5 +20,5 @@ puts "(34, 5), (4)"
 end
 
 def square_root(num)
-
+puts "(81), (9)"
 end
