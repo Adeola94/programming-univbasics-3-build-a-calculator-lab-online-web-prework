@@ -8,7 +8,7 @@ puts "(10,5), (5)"
 end
 
 def division(num1, num2)
-puts 
+puts "(50,2), (25)"
 end
 
 def multiplication(num1, num2)
