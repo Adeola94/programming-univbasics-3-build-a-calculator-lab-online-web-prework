@@ -19,5 +19,5 @@ puts "(modulo(34, 5)).to eq(4)"
 end
 
 def square_root(num)
-puts "(81), (9)"
+puts "(square_root(81)).to eq(9)"
 end
