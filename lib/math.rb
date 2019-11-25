@@ -16,7 +16,7 @@ puts "(4,30), (120)"
 end
 
 def modulo(num1, num2)
-puts 
+puts "(34, 5), (4)"
 end
 
 def square_root(num)
